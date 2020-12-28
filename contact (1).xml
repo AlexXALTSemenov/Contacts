@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+</root_group>
+<root_contact>
+	<contact display_name="Alex" office_number="Alex" mobile_number="0128172718" other_number="" line="0" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="All Contacts" />
+</root_contact>
